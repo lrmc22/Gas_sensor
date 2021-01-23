@@ -18,8 +18,8 @@
 #define DHTPIN 2 // From esp8266 pin diagram
 
 //Router parameters
-const char* ssid        = "Bbox-8884FC0B"; // Enter your WiFi name
-const char* password    =  "A5C5CCF55EA9EA45C2ACCF259E21EC"; // Enter WiFi password
+const char* ssid        = "......."; // Enter your WiFi name
+const char* password    =  "......"; // Enter WiFi password
 const char* mqttServer  = "192.168.1.78"; //RPI MQTT Server IP
 
 //PB variables
